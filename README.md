@@ -2,4 +2,4 @@
 
 Design pattern | link 
 ---|:---:
-`Singleton` | [Singleton](https://github.com/JiHyeongSeo/python-design-pattern/singleton/README.md)
+`Singleton` | [Singleton](https://github.com/JiHyeongSeo/python-design-pattern/tree/main/singleton)
